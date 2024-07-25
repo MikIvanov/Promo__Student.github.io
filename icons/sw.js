@@ -2,7 +2,7 @@ const staticCacheName = 'CacheSpace1';
 
 const assetUrls = [
   '/icons',
-  '/css/styles.css',
+  '/styles.css',
   '/background',
   '/index.html',
 ]
